@@ -18,6 +18,7 @@ var test01Layer = cc.Layer.extend({
            cc.VERTICAL_TEXT_ALIGNMENT_CENTER
        );
 
+
         mylabel.x = size.width /2;
         mylabel.y = size.height /2;
         mylabel.setColor(cc.color(0,0,225));
